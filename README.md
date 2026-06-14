@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-reencuentro-diez-anos-despues/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Un reencuentro diez años después](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-reencuentro-diez-anos-despues/) |
+| **Get License** | [License this song: Un reencuentro diez años después](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-reencuentro-diez-anos-despues/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f8b18e2438096289df421c84553e3c7a3ab860d4666e4524ff7429212d12889e` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
