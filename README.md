@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Diez años y te veo en la misma ciudad
+> Con esa mirada que me quita la paz
+> Tú sabes que la noche nos vuelve a llamar
+> Y esta vez, nena, no te voy a soltar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
